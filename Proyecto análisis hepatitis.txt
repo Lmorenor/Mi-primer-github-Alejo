@@ -2,3 +2,4 @@ Hola Estefy, te parece si creamos un proyecto de hepatitis?
 Si, genial!
 Para empezar nos toca buscar un curso de R jajaja
 Estamos iniciando uno :D, espero aprender mucho.
+Necesito terminar de auditar para poder tener la BD actualizada.
